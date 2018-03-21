@@ -31,7 +31,8 @@ count2 = tempClasses.count(2)
 count3 = tempClasses.count(3)
 
 # Print the number of zeros, ones, twos, and threes in the tempClasses list
-print('Сlass 0 occurs',count0,'times\nClass 1 occurs',count1,'times\nClass 2 occurs',count2,'times\nClass 3 occurs',count3,'times')
+print('Сlass 0 occurs',count0,'times\nClass 1 occurs',count1,'times\nClass 2 occurs',\
+      count2,'times\nClass 3 occurs',count3,'times')
     
     
 
