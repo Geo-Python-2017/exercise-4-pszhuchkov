@@ -34,8 +34,8 @@ You should do following (also criteria for grading):
   - Return the converted value from the function back to the user
   - Comment your code and add a docstring that explains how to use your `fahrToCelsius` function (i.e., you should write the purpose of the function, parameters, and returned values)
   - Test and use your newly created function by finding the results for following questions:
-     - What is 48° Fahrenheit in Celsius? **==> Add your answer here:**
-     - What about 71° Fahrenheit in Celsius? **==> Add your answer here:**
+     - What is 48° Fahrenheit in Celsius? **==> Add your answer here: 8.89**
+     - What about 71° Fahrenheit in Celsius? **==> Add your answer here: 21.67**
   - Upload and commit your script with the name `functions.py` in your own GitHub repository for Exercise 4
 
 If everything in your script is working properly the following test case should work:
@@ -127,11 +127,11 @@ In more detail, you should do following (also criteria for grading):
 ## Problem 1 - Answers to questions
 
 ### 1. 
-
+All clear.
 ### 2.
-
+More effectively, comfortable and shorter.
 ### 3. 
-
+Does not matter.
 
 
 
